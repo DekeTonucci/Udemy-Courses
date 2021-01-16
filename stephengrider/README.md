@@ -38,7 +38,7 @@ List of all courses to complete:
 
 ### Misc
 
-- [ ] ES6 Javascript: The Complete Developer's Guide: [Course Link](https://www.udemy.com/course/javascript-es6-tutorial/)
+- [x] ES6 Javascript: The Complete Developer's Guide: [Course Link](https://www.udemy.com/course/javascript-es6-tutorial/)
 - [ ] Docker and Kubernetes: The Complete Guide: [Course Link](https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide/)
 - [ ] Ethereum and Solidity: The Complete Developer's Guide: [Course Link](https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide/)
 - [ ] Machine Learning with Javascript: [Course Link](https://www.udemy.com/course/machine-learning-with-javascript/)
