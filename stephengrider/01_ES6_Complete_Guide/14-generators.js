@@ -269,3 +269,9 @@ const children = [
 const tree = new Comment('Great Post!', children);
 
 // Recurse through the tree.
+const values = [];
+for( let value of tree) {
+  values.push(value)
+}
+
+values;
