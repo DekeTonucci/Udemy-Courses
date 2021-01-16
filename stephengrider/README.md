@@ -35,9 +35,6 @@ List of all courses to complete:
 - [ ] Typescript: The Complete Developer's Guide: [Course Link](https://www.udemy.com/course/typescript-the-complete-developers-guide/)
 - [ ] Meteor and React for Realtime Apps: [Course Link](https://www.udemy.com/course/meteor-react-tutorial/)
 - [ ] Electron for Desktop Apps: The Complete Developer's Guide: [Course Link](https://www.udemy.com/course/electron-react-tutorial/)
-- [ ] The Complete Elixir and Phoenix Bootcamp: [Course Link](https://www.udemy.com/course/the-complete-elixir-and-phoenix-bootcamp-and-tutorial/)
-- [ ] The Modern Angular Bootcamp: [Course Link](https://www.udemy.com/course/the-modern-angular-bootcamp/)
-- [ ] Vue JS Essentials with Vuex and Vue Router: [Course Link](https://www.udemy.com/course/vue-js-course/)
 
 ### Misc
 
@@ -46,8 +43,11 @@ List of all courses to complete:
 - [ ] Ethereum and Solidity: The Complete Developer's Guide: [Course Link](https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide/)
 - [ ] Machine Learning with Javascript: [Course Link](https://www.udemy.com/course/machine-learning-with-javascript/)
 - [ ] The Coding Interview Bootcamp: Algorithms + Data Structures: [Course Link](https://www.udemy.com/course/coding-interview-bootcamp-algorithms-and-data-structure/)
+- [ ] The Modern Angular Bootcamp: [Course Link](https://www.udemy.com/course/the-modern-angular-bootcamp/)
+- [ ] Vue JS Essentials with Vuex and Vue Router: [Course Link](https://www.udemy.com/course/vue-js-course/)
 
 ### Other Languages
 
 - [ ] Go: The Complete Developer's Guide (Golang): [Course Link](https://www.udemy.com/course/go-the-complete-developers-guide/)
 - [ ] Dart and Flutter: The Complete Developer's Guide: [Course Link](https://www.udemy.com/course/dart-and-flutter-the-complete-developers-guide/)
+- [ ] The Complete Elixir and Phoenix Bootcamp: [Course Link](https://www.udemy.com/course/the-complete-elixir-and-phoenix-bootcamp-and-tutorial/)
